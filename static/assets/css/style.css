@@ -179,7 +179,7 @@ li  { list-style-type:circle; list-style-position:inside;}
 article ol li {
   list-style-type: decimal;
   padding-left: 20px;
-}  
+}
 
 article ul li {
   list-style-type: disc;
@@ -195,7 +195,7 @@ article ul li {
 }
 
 article img {
-  padding: 20px 0px 20px 0px; 
+  padding: 20px 0px 20px 0px;
 }
 
 b, strong {
@@ -206,7 +206,7 @@ em, i {
   font-style: italic;
 }
 
-sup { 
+sup {
     vertical-align: super;
     font-size: smaller;
 }
@@ -372,19 +372,14 @@ footer #wrapper {
   display: flex;
 }
 
-#post-meta div span {
+#post-meta span {
   color: #aaa;
   font-weight: 500;
   display: block;
 }
 
-#post-meta div span.dark {
+#post-meta span.dark {
   color: #1E2025;
-
-}
-
-#post-meta div {
-  float: left;
 }
 
 /* Post Page */
@@ -556,7 +551,7 @@ video {
     display: block;
 }
 
-/* 
+/*
 article #post-list li {
   list-style-type: disc;
 }
